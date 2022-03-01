@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The noble fisher-man. Or, Robin Hood's preferment, shewing how he won a prize on the sea, and how he gave one half to his dame, and the other to the building of alm-houses. The tune is, In summer time, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04499</idno>
+            <idno type="STC">Wing N1205C</idno>
+            <idno type="STC">ESTC R181024</idno>
+            <idno type="EEBO-CITATION">47012554</idno>
+            <idno type="OCLC">ocm 47012554</idno>
+            <idno type="VID">174521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174521)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The noble fisher-man. Or, Robin Hood's preferment, shewing how he won a prize on the sea, and how he gave one half to his dame, and the other to the building of alm-houses. The tune is, In summer time, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1663 and 1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half sheet contains: The second part, to the same tune.</note>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Robin Hood (Legendary character) --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174521:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>The Noble Fiſher-Man.</head>
+            <argument>
+               <p>Or, <hi>Robin Hood</hi>'s perferment, ſhewing how he won a Prize on the Sea, and how he gave one half to his Dame, and the other to the building of Alm-houses.</p>
+            </argument>
+            <opener>The Tune is, In Summer time, &amp;c.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IN ſummer time when leaves grow green,</l>
+                  <l>when they grow both green and long,</l>
+                  <l>Of a bold Out-law call'd <hi>Robin Hood,</hi>
+                  </l>
+                  <l>it is of him I ſing this Song.</l>
+               </lg>
+               <lg>
+                  <l>When the Lilly Leaf and the Elephant,</l>
+                  <l>both bud and ſpring with a merry cheer,</l>
+                  <l>This Out-law was weary of the Wood-ſide,</l>
+                  <l>and chaſing of the Fallow-Deer.</l>
+               </lg>
+               <lg>
+                  <l>The Fiſher-men brave, more money have,</l>
+                  <l>than any Merchant two or three,</l>
+                  <l>Therefore will I to <hi>Scarbrough</hi> go,</l>
+                  <l>that I a Fiſher-man brave may be.</l>
+               </lg>
+               <lg>
+                  <l>This Out-law call'd his merry men all,</l>
+                  <l>as they ſat under the Green-wood-tree,</l>
+                  <l>If any of you have gold to ſpend,</l>
+                  <l>I pray you heartily ſpend it with me.</l>
+               </lg>
+               <lg>
+                  <l>Now quoth <hi>Robin,</hi> i'le to <hi>Scarbrough</hi> go,</l>
+                  <l>it ſeems to be a very fair day,</l>
+                  <l>Who took up his Inn at a widdow-womans houſe</l>
+                  <l>hard by upon the waters gray.</l>
+               </lg>
+               <lg>
+                  <l>Who asked him where wert thou born,</l>
+                  <l>or tell to me where doſt thou fare,</l>
+                  <l>I am a poor Fiſher-man, ſaid he then,</l>
+                  <l>this day intrapped all in care.</l>
+               </lg>
+               <lg>
+                  <l>What is thy Name thou fine Fellow?</l>
+                  <l>I pray thee heartily tell it to me,</l>
+                  <l>In mine own Country where I was born,</l>
+                  <l>men call me <hi>Simon over the Lee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Simon, Simon,</hi> ſaid the good Wife,</l>
+                  <l>I wiſh thou mayeſt well brook thy name,</l>
+                  <l>The Out-law was ware of her courteſie,</l>
+                  <l>and rejoyc'd he had got ſuch a Dame.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Simon,</hi> wilt thou be my man?</l>
+                  <l>and good round wages i'le give thee,</l>
+                  <l>I have as good a Ship of mine own,</l>
+                  <l>as any ſails upon the Sea.</l>
+               </lg>
+               <lg>
+                  <l>Anchors and Planks thou ſhalt want none,</l>
+                  <l>Maſts and Ropes that are ſo long,</l>
+                  <l>And if that you thus furniſh me,</l>
+                  <l>ſaid <hi>Simon,</hi> nothing ſhall go wrong.</l>
+               </lg>
+               <lg>
+                  <l>They pluckt up Anchor, and away did ſail,</l>
+                  <l>more of a day than two or three,</l>
+                  <l>When others caſt in their baited hooks,</l>
+                  <l>the bare lines into the Sea caſt he.</l>
+               </lg>
+               <lg>
+                  <l>It will be long ſaid the Maſter then,</l>
+                  <l>e're this great luber do thrive on the ſea,</l>
+                  <l>Ile aſſure he ſhall have no part of our fiſh,</l>
+                  <l>for in truth he is no part worthy.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part,</head>
+               <opener>to the ſame tune,</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>O Wo is me ſaid <hi>Simon</hi> then,</l>
+                  <l>this day that ever I came here,</l>
+                  <l>I wiſh I were in <hi>Plomton</hi> Park,</l>
+                  <l>in chaſing of the Fallow Deer.</l>
+               </lg>
+               <lg>
+                  <l>For every Clown laughs me to ſcorn,</l>
+                  <l>and they by me ſet nothing at all,</l>
+                  <l>If I had them in <hi>Plomton</hi> Park,</l>
+                  <l>I would ſet as little by them all.</l>
+               </lg>
+               <lg>
+                  <l>They pluckt up Anchor and away did ſail,</l>
+                  <l>more of a day then two or three,</l>
+                  <l>But <hi>Simon</hi> eſpyed a ſhip of war,</l>
+                  <l>that ſailed towards them valourouſly.</l>
+               </lg>
+               <lg>
+                  <l>O wo is me, ſaid the Maſter then,</l>
+                  <l>this day that ever I was born;</l>
+                  <l>For all our Fiſh that we have got,</l>
+                  <l>is every bit loſt and forlorn.</l>
+               </lg>
+               <lg>
+                  <l>For yon <hi>French</hi> Robber on the Sea</l>
+                  <l>they will not ſpare of us one man.</l>
+                  <l>But carry us to the Coaſt of <hi>France,</hi>
+                  </l>
+                  <l>and lay us in the Priſon ſtrong.</l>
+                  <l/>
+                  <l>But <hi>Simon</hi> ſaid, do not fear them,</l>
+                  <l>neither Maſter, take you any care,</l>
+                  <l>Give me my bent bow in my hand,</l>
+                  <l>and never a <hi>French-man</hi> will I ſpare.</l>
+               </lg>
+               <lg>
+                  <l>Hold thy peace thou long Lubber,</l>
+                  <l>for thou art naught but brags and boſt,</l>
+                  <l>If I ſhould caſt thee over-board,</l>
+                  <l>there's but a ſimple Lubber loſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Simon</hi> grew angry at theſe words,</l>
+                  <l>and ſo angry then was he,</l>
+                  <l>That he took his bent bow in his hand,</l>
+                  <l>and to the Ship-hatch go doth he.</l>
+               </lg>
+               <lg>
+                  <l>Maſter tye me to the Maſt he ſaid,</l>
+                  <l>that at my mark I may ſtand fair,</l>
+                  <l>And give me my bent bow in my hand,</l>
+                  <l>and never a <hi>French-man</hi> will I ſpare.</l>
+               </lg>
+               <lg>
+                  <l>He drew his Arrow to the very head,</l>
+                  <l>and drew it with all might and main,</l>
+                  <l>And ſtraightway in the twinkling of an eye,</l>
+                  <l>doth the <hi>Frenchmans</hi> heart the arrow gain.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>French-man</hi> fell down on the ſhip-hatch</l>
+                  <l>and under the hatches down below,</l>
+                  <l>Another <hi>French-man</hi> that him eſpy'd,</l>
+                  <l>the dead corps into the Sea doth throw.</l>
+               </lg>
+               <lg>
+                  <l>O Maſter looſe me from the Maſt he ſaid,</l>
+                  <l>and for them all take you no care,</l>
+                  <l>And give me my bent bow in my hand,</l>
+                  <l>and never a <hi>French man</hi> will I ſpare.</l>
+               </lg>
+               <lg>
+                  <l>Then ſtraight they boarded the <hi>French</hi> ſhip,</l>
+                  <l>they lying all dead in their ſight,</l>
+                  <l>They found within the ſhip of war,</l>
+                  <l>twelve thouſand pound in money bright.</l>
+               </lg>
+               <lg>
+                  <l>The one half of the ſhip, ſaid <hi>Simon</hi> then,</l>
+                  <l>i'le give to my Dame and children ſmall,</l>
+                  <l>The other half of the ſhip i'le give,</l>
+                  <l>to you that are my fellows all.</l>
+               </lg>
+               <lg>
+                  <l>But now beſpake the Maſter then,</l>
+                  <l>for ſo <hi>Simon</hi> it ſhall not be,</l>
+                  <l>For you have won it with your own hands,</l>
+                  <l>and the owner of it you muſt be.</l>
+               </lg>
+               <lg>
+                  <l>It ſhall be ſo <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s I have ſaid,</l>
+                  <l>and with this gold for thee oppreſt,</l>
+                  <l>An Habitation I wi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l build,</l>
+                  <l>where they ſhall live in peace and reſt</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for F. Coles, T. Vere, and J. Wright.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
